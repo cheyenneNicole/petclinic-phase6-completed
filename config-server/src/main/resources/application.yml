@@ -1,5 +1,5 @@
 ---
 spring.application.name: config-server
 spring.cloud.config.server.git.uri: https://github.com/CognizantFSE/spring-config-server
-spring.cloud.config.server.git.searchPaths: petclinic
+spring.cloud.config.server.git.searchPaths: store
 server.port: 8888
